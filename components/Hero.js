@@ -6,13 +6,13 @@ export default function Hero() {
             <div className="flex flex-row justify-center items-center min-h-screen">
             <div>
                 <h1 className="flex-1 text-7xl font-bold text-white text-left max-w-2xl mb-28">
-                Get to enjoy, world’s best coffee in one place!
+                GET TO ENJOY, WORLD’S FINEST COFFEE!
                 </h1>
                 <h5 className="flex-1 text-2xl font-bold text-[#C1C1C1] text-left">
                 We serve all the best kinds of coffee around the world. 
                 </h5>
                 <div className="mb-2">
-                <button class="mt-5 px-5 py-4 rounded-md text-lg font-medium text-[#7A3636] bg-white hover:bg-indigo-800 active:bg-grey-900 focus:outline-none transition-all w-56">
+                <button className="mt-5 px-5 py-4 rounded-md text-lg font-medium text-[#7A3636] bg-white hover:bg-indigo-800 active:bg-grey-900 focus:outline-none transition-all w-56">
                     Start Brewing
                 </button>
                 </div>

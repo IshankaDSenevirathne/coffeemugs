@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       height:{
         '128':'28rem',
+      },
+      backdropBlur: {
+        xs: '1px',
       }
     },
   },
