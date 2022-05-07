@@ -1,7 +1,7 @@
 
 export default function Footer() {
   return (
-    <div className="flex flex-col bg-black text-white pb-14 pt-14">
+    <div className="flex flex-col bg-black text-white pb-14 pt-14 h-128">
         <div className="mb-14">
             <h1 className="text-white text-3xl text-left">
                 About Us

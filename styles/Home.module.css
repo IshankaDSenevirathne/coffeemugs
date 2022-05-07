@@ -4,8 +4,13 @@
   height: 100%;
 }
 .card1{
-  background: linear-gradient(-60deg,#222121 45%,transparent 45%,rgba(0,0,0,0.0)),url("../public/test.jpg") left bottom no-repeat;
-  border-radius: 10px;
+  background: linear-gradient(-60deg,#222121 45%,transparent 45%,rgba(0,0,0,0.7)),url("../public/tree.jpg") left bottom no-repeat;
+}
+.card2{
+  background: linear-gradient(60deg,#7A3636 45%,transparent 45%,rgba(0,0,0,0.7)),url("../public/pic2.jpg") right top no-repeat;
+}
+.card3{
+  background: linear-gradient(-60deg,#222121 45%,transparent 45%,rgba(0,0,0,0.4)),url("../public/pic3.jpg") left top no-repeat;
 }
 .announcements{
   background: linear-gradient(transparent,rgba(0,0,0,0.8)),url("../public/tree.jpg") center center no-repeat;
