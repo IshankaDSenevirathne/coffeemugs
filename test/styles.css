@@ -1,0 +1,7 @@
+html,body{
+    background-color: #000;
+    background: linear-gradient(-110deg,#ffffff 20%,#7A3636 20%,#7A3636 50%,#494949 50%,#494949 80%,#000000 80%);
+}
+.intro{
+    height:1000vh;
+}
