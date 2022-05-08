@@ -9,7 +9,7 @@ export default function Footer() {
               Online Shopping
             </h1>
             <p>
-              Delivery Information and FAQ's
+              Delivery Information and FAQ
             </p>
             <p>
               Terms and conditions
