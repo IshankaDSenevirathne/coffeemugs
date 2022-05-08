@@ -13,7 +13,7 @@ export default function Trending() {
                             Espresso
                         </h1>
                         <p className="text-white  text-2xl px-96 text-center">
-                        Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It's made from the same beans as coffee but is stronger, thicker, and higher in caffeine. However, because espresso is typically served in smaller servings than coffee, it has less caffeine per serving.
+                        Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. Its made from the same beans as coffee but is stronger, thicker, and higher in caffeine. However, because espresso is typically served in smaller servings than coffee, it has less caffeine per serving.
                         </p>
                         <h1 className="text-right pb-10 pr-10 font-bold text-white text-5xl">
                             5.99<span style={{"color":"#7A3636"}}>$</span>
@@ -26,7 +26,7 @@ export default function Trending() {
                             Macho
                         </h1>
                         <p className="text-white  text-2xl px-96 text-center">
-                        Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It's made from the same beans as coffee but is stronger, thicker, and higher in caffeine. However, because espresso is typically served in smaller servings than coffee, it has less caffeine per serving.
+                        Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. Its made from the same beans as coffee but is stronger, thicker, and higher in caffeine. However, because espresso is typically served in smaller servings than coffee, it has less caffeine per serving.
                         </p>
                         <h1 className="text-left pb-10 pl-10 font-bold text-white text-5xl">
                             12.99<span style={{"color":"#222121"}}>$</span>
@@ -39,7 +39,7 @@ export default function Trending() {
                             Cappuchino
                         </h1>
                         <p className="text-white  text-2xl px-96 text-center">
-                        Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It's made from the same beans as coffee but is stronger, thicker, and higher in caffeine. However, because espresso is typically served in smaller servings than coffee, it has less caffeine per serving.
+                        Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. Its made from the same beans as coffee but is stronger, thicker, and higher in caffeine. However, because espresso is typically served in smaller servings than coffee, it has less caffeine per serving.
                         </p>
                         <h1 className="text-right pb-10 pr-10 font-bold text-white text-5xl">
                             6.99<span style={{"color":"#7A3636"}}>$</span>
