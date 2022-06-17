@@ -6,11 +6,20 @@
 .card1{
   background: linear-gradient(-60deg,#222121 45%,transparent 45%,rgba(0,0,0,0.7)),url("../public/tree.jpg") left bottom no-repeat;
 }
+.card1mobile{
+  background: linear-gradient(-60deg,#222121 45%,transparent 45%,rgba(0,0,0,0.7)),url("../public/item2.jpg") right center no-repeat;
+}
 .card2{
   background: linear-gradient(60deg,#7A3636 45%,transparent 45%,rgba(0,0,0,0.7)),url("../public/pic2.jpg") right top no-repeat;
 }
+.card2mobile{
+  background: linear-gradient(60deg,#7A3636 45%,transparent 45%,rgba(0,0,0,0.7)),url("../public/item4.jpg") left center no-repeat;
+}
 .card3{
   background: linear-gradient(-60deg,#222121 45%,transparent 45%,rgba(0,0,0,0.4)),url("../public/pic3.jpg") left top no-repeat;
+}
+.card3mobile{
+  background: linear-gradient(-60deg,#222121 45%,transparent 45%,rgba(0,0,0,0.4)),url("../public/item8.jpg") right center no-repeat;
 }
 .announcements{
   background: linear-gradient(transparent,rgba(0,0,0,0.8)),url("../public/tree.jpg") center center no-repeat;

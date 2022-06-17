@@ -18,8 +18,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div >
-        <div>
-          <div className="sticky top-0">
+        <div className="font-serif">
+          <div>
             <Navbar/>
           </div>
           <div>
