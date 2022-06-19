@@ -10,17 +10,20 @@ export default function Navbar() {
                 <Image src="/logo.svg" width={100} height={100} objectFit="contain"/>
             </div>
             <div className="hidden md:flex flex-row mr-10">
-                <h2 className="m-5 pr-5 text-[#494949] text-xl font-bold">
+                <h2 className="m-5 pr-5 text-[#494949] text-xl font-bold hover:border-r-8 hover:border-[#7A3636] delay-10 duration-200 cursor-pointer">
                 Menu
                 </h2>
-                <h2 className="m-5 pr-5 text-[#494949] text-xl font-bold">
+                <h2 className="m-5 pr-5 text-[#494949] text-xl font-bold hover:border-r-8 hover:border-[#7A3636] delay-10 duration-200 cursor-pointer">
                 News
                 </h2>
-                <h2 className="m-5  text-[#494949] text-xl font-bold">
+                <h2 className="m-5 pr-5 text-[#494949] text-xl font-bold hover:border-r-8 hover:border-[#7A3636] delay-10 duration-200 cursor-pointer">
                 About
+                </h2>
+                <h2 className="m-5 pr-5 text-[#494949] text-xl font-bold hover:border-r-8 hover:border-[#7A3636] delay-10 duration-200 cursor-pointer">
+                Reviews
                 </h2>
             </div>
             <MenuIcon className="text-black mr-2 md:hidden h-6 w-6"/>
-        </div>
+        </div>  
   )
 }
